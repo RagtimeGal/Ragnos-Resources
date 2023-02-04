@@ -7,9 +7,9 @@ plugins {
 
 project.ext.modID = "ragno.ragnosresources" // The unique id of your mod. Must be all lowercase and cannot use special characters.
 project.ext.modName = "Ragnos Resourcepack" // The display name of your mod.
-project.ext.modVersion = "0.2" // Your current builds version. Must follow the xx.xx... format.
-project.ext.gameVersion = "0.21.27" // The target game version.
-project.ext.modDescription = "Aims to improve the graphics of the game. Currently revamps 509/2417 textures." // Short description of what your mod is.
+project.ext.modVersion = "0.3" // Your current builds version. Must follow the xx.xx... format.
+project.ext.gameVersion = "0.21.28" // The target game version.
+project.ext.modDescription = "Aims to improve the graphics of the game. Currently revamps (roughly) 528/2587 textures." // Short description of what your mod is.
 project.ext.author = "Ragno" // Your name
 
 /**
