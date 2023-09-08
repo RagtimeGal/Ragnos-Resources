@@ -1,3 +1,1 @@
-An example mod for Necesse.
-
-Check out the [modding wiki page](https://necessewiki.com/Modding) for more.
+Ragnos Resources is a resourcepack mod for the game Necesse developed by Ragno with the goal of retexturing the whole game to look better while still keeping the games original charm and staying faithful to the original textures.
